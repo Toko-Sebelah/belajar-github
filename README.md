@@ -1,1 +1,1 @@
-# belajar-github
+# GitHub
